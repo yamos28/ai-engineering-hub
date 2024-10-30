@@ -30,6 +30,6 @@ We welcome contributors! Whether you want to add new tutorials, improve existing
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 💬 Connect
-For discussions, suggestions, and more, feel free to [create an issue](https://github.com/your_repo/issues) or reach out directly!
+For discussions, suggestions, and more, feel free to [create an issue](https://github.com/patchy631/ai-engineering/issues) or reach out directly!
 
 Happy Coding! 🎉
