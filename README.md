@@ -1,4 +1,3 @@
-
 # AI Engineering Hub 🚀
 Welcome to the **AI Engineering Hub**! This repository is dedicated to hands-on tutorials and demos focusing on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **AI Agents**. Dive into practical guides, sample code, and comprehensive resources tailored to help you build, fine-tune, and deploy state-of-the-art AI systems.
 
@@ -30,8 +29,7 @@ We welcome contributors! Whether you want to add new tutorials, improve existing
 ## 📬 Stay Updated with Our Newsletter!
 **Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
 
-![Join Daily Dose of Data Science Newsletter](https://join.dailydoseofds.com)
-
+[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
 
 ---
 
