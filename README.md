@@ -11,10 +11,10 @@ Whether you’re a beginner, practitioner, or researcher, this repo provides res
 
 ---
 
-## 📚 Tutorials and Demos
-- **LLMs**: Work with the latest architectures, including BERT, GPT, T5, and more.
-- **RAG Systems**: Discover retrieval-augmented generation techniques for smarter AI responses.
-- **AI Agents**: Build AI agents capable of advanced decision-making and contextual understanding.
+## 📬 Stay Updated with Our Newsletter!
+**Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
+
+[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
 
 ---
 
@@ -23,13 +23,6 @@ We welcome contributors! Whether you want to add new tutorials, improve existing
 1. **Fork** the repository.
 2. Create a new branch for your contribution.
 3. Submit a **Pull Request** and describe the improvements.
-
----
-
-## 📬 Stay Updated with Our Newsletter!
-**Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
-
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
 
 ---
 
